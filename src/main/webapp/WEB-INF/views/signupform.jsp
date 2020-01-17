@@ -10,7 +10,7 @@
 </head>
 <body>
 <div>
-	<h1>회원가입 페이지</h1>
+	<h1>회원가입 페이지2</h1>
 </div>
 <hr>
 <form action="/insertsignup.action" method="post">
